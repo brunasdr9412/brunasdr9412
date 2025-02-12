@@ -3,7 +3,7 @@
 <!--
 **brunasdr9412/brunasdr9412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<div class="tenor-gif-embed" data-postid="7817705" data-share-method="host" data-aspect-ratio="1.75" data-width="100%"><a href="https://tenor.com/view/computer-cat-working-type-typing-gif-7817705">Computer Cat GIF</a>from <a href="https://tenor.com/search/computer-gifs">Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="7817705" data-share-method="host" data-aspect-ratio="1.75" data-width="100%"><a href="https://tenor.com/view/computer-cat-working-type-typing-gif-7817705">Computer Cat GIF</a>from <a href="https://tenor.com/search/computer-gifs">Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>  
 
 - 🔭 I'm currently studying programming and UX. My degree is systems analysis and development.
 - 🌱 I’m currently learning:
@@ -16,14 +16,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />  
                             
-- 📫 How to reach me: <a href="[https://www.linkedin.com/in/bruna-santiago-dos-reis-escrita/]" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-
-- 😄 Pronouns: She/Her
+- 📫 How to reach me: <a href="[https://www.linkedin.com/in/bruna-santiago-dos-reis-escrita/]" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
+  
+😄 Pronouns: She/Her
 
 ![Snake animation](https://github.com/brunasdr9412/brunasdr9412/blob/output/github-contribution-grid-snake.svg)
-name: Generate Datas
+name: Generate Datas  
 
 on:
   schedule: # execute every 12 hours
@@ -47,7 +47,7 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
 
 - ⚡ Fun facts: 
 ✨I have a degree in Letters/Literature/Arts and have worked as a teacher, writer and proofreader.
@@ -62,14 +62,14 @@ jobs:
 
 ✨I learned more about the IT area through lectures by the Dev Girls collective.
 
-✨I like pizza, coffee, RPGs, watching anime, writing poems, painting pictures, playing the guitar, reading a lot and dancing.
+✨I like pizza, coffee, RPGs, watching anime, writing poems, painting pictures, playing the guitar, reading a lot and dancing.  
 
-![octocat-1739376376591](https://github.com/user-attachments/assets/36616f4d-a2e6-404e-9272-1b6c828e3344)
+![octocat-1739376376591](https://github.com/user-attachments/assets/36616f4d-a2e6-404e-9272-1b6c828e3344)  
 
 <div>
 <a href="https://github.com/brunasdr9412">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+</div>  
 
 
