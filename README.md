@@ -34,8 +34,8 @@
 
 <div>
 <a href="https://github.com/brunasdr9412">
-<img loading="lazy" height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasdr9412&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="80em" src="https://github-readme-stats.vercel.app/api?username=brunasdr9412&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="60em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasdr9412&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="60em" src="https://github-readme-stats.vercel.app/api?username=brunasdr9412&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
