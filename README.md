@@ -12,6 +12,7 @@
 😄 Pronouns: She/Her
 
 ⚡ Fun facts: 
+
 ✨I have a degree in Letters/Literature/Arts and have worked as a teacher, writer and proofreader.
 
 ✨I discovered programming by creating Portuguese language games for children and teenagers.
