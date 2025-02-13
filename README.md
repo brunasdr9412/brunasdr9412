@@ -1,7 +1,8 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Bruna and my nickname is "Bru"!
 
-<div class="tenor-gif-embed" data-postid="5751430" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/kitten-cat-typing-typing-cat-gif-5751430">Kitten Cat GIF</a>from <a href="https://tenor.com/search/kitten-gifs">Kitten GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Kitten Typing](https://media1.tenor.com/m/_HwQHDixHnMAAAAC/kitten-cat.gif)
+
 
 🔭 I'm currently studying programming and UX. My degree is systems analysis and development.
 
