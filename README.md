@@ -40,4 +40,8 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=brunasdr9412&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+### 🐍 Animação da Cobrinha
+
+![Snake animation](https://github.com/brunasdr9412/snake-game/blob/output/dist/snake.svg)
+
 
